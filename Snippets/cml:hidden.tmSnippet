@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;cml:hidden ${20:validates="${25:user_agent}"} name="$30" ${70:aggregation="${75:avg|agg|all}"} /&gt;</string>
+	<key>name</key>
+	<string>cml:hidden</string>
+	<key>scope</key>
+	<string>text.cml</string>
+	<key>tabTrigger</key>
+	<string>hidden</string>
+	<key>uuid</key>
+	<string>ADA477BC-5E49-4C59-B954-088697A943D2</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;cml:select label="$10" ${20:instructions="$25"} ${30:name="${35:${10/(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(\w+)?(\W+(?!$))?(.+)?(\W?$)/\L$1(?2:_)$3(?4:_)$5(?6:_)$7(?8:_)$9(?10:_)$11(?12:_)$13(?14:_)$15(?16:_)\E/}}"} ${40:validates="${45:required}"} ${50:only-if="$55"} ${60:aggregation="${65:avg|agg|all}"} /&gt;
+	&lt;cml:option label="$60" value="$70" ${80:default="true"} /&gt;
+&lt;/cml:select&gt;</string>
+	<key>name</key>
+	<string>cml:select</string>
+	<key>scope</key>
+	<string>text.cml</string>
+	<key>tabTrigger</key>
+	<string>select</string>
+	<key>uuid</key>
+	<string>AFFD2CB0-7741-4AA9-887E-D9E41623B4B6</string>
+</dict>
+</plist>

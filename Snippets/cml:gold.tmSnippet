@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;cml:gold src="$10" ${20:strict="true"} ${25:exact="true"} ${30:regex="$35"} ${40:flags="${55:i}"} ${50:no_escape="$55"} /&gt;</string>
+	<key>name</key>
+	<string>cml:gold</string>
+	<key>scope</key>
+	<string>text.cml</string>
+	<key>tabTrigger</key>
+	<string>gold</string>
+	<key>uuid</key>
+	<string>0CA54F6E-AE3D-4815-91F1-53F5DEC3B068</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;cml:group ${50:only-if="$55"}&gt;
+	{$TM_SELECTED_TEXT}
+&lt;/cml:group&gt;</string>
+	<key>name</key>
+	<string>cml:group</string>
+	<key>scope</key>
+	<string>text.cml</string>
+	<key>tabTrigger</key>
+	<string>group</string>
+	<key>uuid</key>
+	<string>1C9C3D95-17D9-4ACC-ADF3-F8CE77EEE0FC</string>
+</dict>
+</plist>
