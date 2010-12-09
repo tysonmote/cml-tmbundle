@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;cml:gold src="$10" ${20:strict="true"} ${25:exact="true"} ${30:regex="$35"} ${40:flags="${55:i}"} ${50:no_escape="$55"} /&gt;</string>
+	<string>&lt;cml:gold src="$10"${20: strict="true"}${25: exact="true"}${30: regex="$35"}${40: flags="${55:i}"}${50: no_escape="$55"} /&gt;</string>
 	<key>name</key>
 	<string>cml:gold</string>
 	<key>scope</key>

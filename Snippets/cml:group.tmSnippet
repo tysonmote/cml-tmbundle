@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;cml:group ${50:only-if="$55"}&gt;
+	<string>&lt;cml:group${50: only-if="$55"}&gt;
 	{$TM_SELECTED_TEXT}
 &lt;/cml:group&gt;</string>
 	<key>name</key>

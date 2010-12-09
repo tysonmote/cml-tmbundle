@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;cml:hidden ${20:validates="${25:user_agent}"} name="$30" ${70:aggregation="${75:avg|agg|all}"} /&gt;</string>
+	<string>&lt;cml:hidden${10: validates="${15:user_agent}"} name="$20"${30: aggregation="${35:avg|agg|all}"} /&gt;</string>
 	<key>name</key>
 	<string>cml:hidden</string>
 	<key>scope</key>
